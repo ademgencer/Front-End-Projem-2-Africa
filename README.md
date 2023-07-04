@@ -1,4 +1,4 @@
-# proje2
+# Front End Projem 2
 
 ## Africa
 
